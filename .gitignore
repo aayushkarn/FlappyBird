@@ -1,0 +1,9 @@
+*.o
+*.sublime-workspace
+/bin/debug/*
+!/bin/debug/debug.txt
+/bin/release/*
+!bin/release/flappybird.zip
+!bin/release/release.txt
+/thirdparty/*
+!/thirdparty/thirdparty.txt

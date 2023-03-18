@@ -1,0 +1,4 @@
+.exe is compiled here in development stage.
+Paste all necessary .dll here for execution of .exe file.
+In case you are running it independent of IDE, paste /assets folder 
+to avoid blank screen, as the program is unable to find the path of /assets.

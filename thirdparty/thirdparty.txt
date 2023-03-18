@@ -1,0 +1,1 @@
+all library are placed here and then are linked to compiler
