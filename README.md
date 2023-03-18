@@ -13,4 +13,4 @@ g++ -c src/*.cpp -std=c++14 -O3 -Wall -m64 -I includes -I thirdparty/include && 
 
 ![Game Screenshot](https://raw.githubusercontent.com/aayushkarn/FlappyBird/main/assets/screenshot.PNG)
 
-[Download Game](https://github.com/aayushkarn/FlappyBird/blob/main/bin/release/flappybird.zip)
+[Download Game](https://github.com/aayushkarn/FlappyBird/raw/main/bin/release/flappybird.zip)
